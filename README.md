@@ -2,7 +2,8 @@
 Headless storefront 
 
 ### Revisions
-- 001: initial commit 
+- 003: lets start working
+- 001: initial commit
 
 
 ### Issues 🥲
