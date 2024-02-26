@@ -2,6 +2,7 @@
 Headless storefront 
 
 ### Revisions
+- 004: header components, fast layout
 - 003: lets start working
 - 001: initial commit
 
